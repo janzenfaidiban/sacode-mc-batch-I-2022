@@ -13,6 +13,11 @@
 
 # Assigments
     Day 00 ✅
+    Follow this tutorial : https://www.youtube.com/watch?v=aKgy6Ug5UVs
+
+    Day 00
+
+    Day 01
 
 # TODOS
     
