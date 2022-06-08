@@ -13,7 +13,7 @@
 
 # Assigments
     Day 00 ✅
-    [Follow this tutorial:](https://www.youtube.com/watch?v=aKgy6Ug5UVs)
+    https://www.youtube.com/watch?v=aKgy6Ug5UVs
 
     Day 00
 
